@@ -6,7 +6,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-# Unity temp
+# Unity temp (extra)
 .utmp/
 # IDE / generated
 .vs/
