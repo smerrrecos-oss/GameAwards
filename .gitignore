@@ -8,3 +8,8 @@
 [Bb]uilds/
 # Unity temp
 .utmp/
+# IDE / generated
+.vs/
+*.csproj
+*.sln
+*.slnx
